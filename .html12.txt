@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Marquee with Images</title>
+</head>
+<body>
+
+    <!-- Example Marquee: Scrolls multiple images from right to left continuously -->
+    <marquee behavior="scroll" direction="left" scrollamount="5" loop="infinite">
+        <img src="image1.jpg" alt="Description of image 1" style="width:100px; height:auto; margin-right: 20px;">
+        <img src="image2.jpg" alt="Description of image 2" style="width:100px; height:auto; margin-right: 20px;">
+        <img src="image3.jpg" alt="Description of image 3" style="width:100px; height:auto; margin-right: 20px;">
+    </marquee>
+
+</body>
+</html>
